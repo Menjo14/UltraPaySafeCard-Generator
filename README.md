@@ -1,2 +1,4 @@
 # UltraPaySafeCard-Generator
-PaySafeCard Generator PSC Generator psc generator Generator and checker Paysafecard
+1) How to use?
+unzip "UltraPaySafeCard Generator.zip"
+open file start.bat 
